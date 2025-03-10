@@ -1,0 +1,29 @@
+:root {
+    /* Primary */
+    --primary: #0F1318;
+    --primary-disabled: #0F1318;
+
+    /* Destructive */
+    --destructive: #EB0237;
+    --destructive-pressed: #A01131;
+    --destructive-disabled: #701328;
+
+    /* Text */
+    --text-default: #B4B5B6;
+    --text-primary: #FFFFFF;
+    --text-secondary: #FAFAFA66;
+    --text-secondary-semibold: #F2F6F6;
+    --text-hover: #FFFFFF;
+    --text-pressed: #FFFFFF;
+    --text-disabled: #68696A;
+
+    /* Drop-list */
+    --drop-list-default: #0B0E12;
+    --drop-list-hover: #0F1318;
+    --drop-list-pressed: #0B0E12;
+
+    /* Status */
+    --status-green: #43AD28;
+    --status-red: #EB0237;
+    --status-orange: #EB6402;
+}
