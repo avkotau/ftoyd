@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ftoyd/static/css/main.dd38a065.css",
-    "main.js": "/ftoyd/static/js/main.71c153ed.js",
+    "main.js": "/ftoyd/static/js/main.319d8a54.js",
     "static/js/453.14a936ad.chunk.js": "/ftoyd/static/js/453.14a936ad.chunk.js",
     "static/media/Ellipse 4.png": "/ftoyd/static/media/Ellipse 4.9c8552746c9a2c8ed5d3.png",
     "static/media/Frame.png": "/ftoyd/static/media/Frame.f85f414d971670fc0cad.png",
@@ -11,11 +11,11 @@
     "static/media/alert-triangle.svg": "/ftoyd/static/media/alert-triangle.3f84f7ee22e84901b3ae1800adef6c2d.svg",
     "index.html": "/ftoyd/index.html",
     "main.dd38a065.css.map": "/ftoyd/static/css/main.dd38a065.css.map",
-    "main.71c153ed.js.map": "/ftoyd/static/js/main.71c153ed.js.map",
+    "main.319d8a54.js.map": "/ftoyd/static/js/main.319d8a54.js.map",
     "453.14a936ad.chunk.js.map": "/ftoyd/static/js/453.14a936ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd38a065.css",
-    "static/js/main.71c153ed.js"
+    "static/js/main.319d8a54.js"
   ]
 }
