@@ -2,7 +2,6 @@ import { configureStore } from '@reduxjs/toolkit';
 import matchesReducer from './matchesSlice';
 
 export const store = configureStore({
-  // middleware: getDefaultMiddleware => getDefaultMiddleware().concat(),
   reducer: {
     matches: matchesReducer
   }

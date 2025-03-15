@@ -61,7 +61,7 @@ export const MatchTracker = () => {
             </div>
             : <p>{error?.message}</p>
           }
-          <Button variant={'primary'} onClick={handleRefetch}>
+          <Button variant={'primary'} onClick={handleRefetch} disabled={isFetching}>
             <ButtonContent>
               <Typography variant={'medium'}>Обновить</Typography>
               <Refresh />
